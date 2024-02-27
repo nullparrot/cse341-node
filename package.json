@@ -1,0 +1,22 @@
+{
+  "name": "cse341-node",
+  "version": "1.0.0",
+  "description": "CSE 341 Coursework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cse341-node"
+  },
+  "keywords": [
+    "cse341"
+  ],
+  "author": "Andrew Weist",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2"
+  }
+}
